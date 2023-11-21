@@ -8,7 +8,7 @@
     - [half-cell simulation](#half-cell-simulation)
 - [Softwares](#code-repository)
   - [MID_MESO](#mid_meso)
-  - [MInDes](#mindes)
+  - [MInDes Core](#mindes-core)
 # Applications
 Page link: https://github.com/Microstructure-Intelligent-Design/Applications
 ## Modeling
