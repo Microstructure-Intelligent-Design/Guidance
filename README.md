@@ -20,12 +20,14 @@
 </div>
 <div align=center>
 fig. 1.1 Modeling of multiphase transition processes in nanoparticle
+
 </div>
 <div align=center>
 <img src="https://github.com/hq5088028/MInDes/blob/main/guide/Publications/figures/cycling.jpg" width="800px">
 </div>
 <div align=center>
 fig. 1.2 Charge/discharge cycle of nanoparticle
+
 </div>
 <div align=center>
 <img src="https://github.com/hq5088028/MInDes/blob/main/guide/Publications/figures/data_distribution.jpg" width="700px">
