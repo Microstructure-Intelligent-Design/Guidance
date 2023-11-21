@@ -14,9 +14,9 @@
 Page link: https://github.com/Microstructure-Intelligent-Design/Applications
 ## Modeling
 ### Modeling from pictures
-<p align=left>
-<img src="https://github.com/Microstructure-Intelligent-Design/Guidance/blob/main/figures/bmp_figure.png" height="200px" width="300px" />
-<img src="https://github.com/Microstructure-Intelligent-Design/Guidance/blob/main/figures/bmp_structure.png" height="200px" width="300px" />
+<p align=center>
+<img src="https://github.com/Microstructure-Intelligent-Design/Guidance/blob/main/figures/bmp_figure.png" height="200px" width="250px" />
+<img src="https://github.com/Microstructure-Intelligent-Design/Guidance/blob/main/figures/bmp_structure.png" height="200px" width="250px" />
 </p>
 <div align=center>
 Fig. 1.1 Modeling of multiphase transition processes in nanoparticle
