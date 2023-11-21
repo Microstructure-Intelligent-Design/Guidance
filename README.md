@@ -65,6 +65,29 @@ Fig. 2.3 The stress, energy density, diffusion potential distribution over the r
 </div>
 
 ### CuxLiySn polycrystalline nanoparticles lithiation
+1. **Huang, Qi**, et al. "XXX." *XXX* XXX (XXXX): XXXXXX.
+
+<p align=center>
+<img src="https://github.com/Microstructure-Intelligent-Design/Guidance/blob/main/figures/cuxliysn_modeling1.png" width="230px" />
+<img src="https://github.com/Microstructure-Intelligent-Design/Guidance/blob/main/figures/cuxliysn_modeling2.png" width="230px" />
+</p>
+<div align=center>
+Fig. 2.4 Modeling of three-dimensional polycrystalline nanoparticle.
+</div>
+
+<div align=center>
+<img src="https://github.com/hq5088028/MInDes/blob/main/guide/Publications/figures/cuxliysn_lithiation.jpg" width="800px">
+</div>
+<div align=center>
+Fig. 2.5 Charge/discharge cycle of nanoparticle.
+</div>
+
+<div align=center>
+<img src="https://github.com/hq5088028/MInDes/blob/main/guide/Publications/figures/cuxliysn_mechanical_analysis.jpg" width="800px">
+</div>
+<div align=center>
+Fig. 2.6 Charge/discharge cycle of nanoparticle.
+</div>
 
 # Softwares
 ## MID_MESO
