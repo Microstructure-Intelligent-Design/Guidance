@@ -28,7 +28,7 @@ Fig. 1.1 Modeling of complex microstructure from bmp24 format figure.
 <img src="https://github.com/Microstructure-Intelligent-Design/Guidance/blob/main/figures/voronoi_structure.png" width="300px" />
 </p>
 <div align=center>
-Fig. 1.2 Modeling of voronoi structure in three-dimensional space.
+Fig. 1.2 Modeling of voronoi structure in three-dimensional cube.
 </div>
 
 <p align=center>
