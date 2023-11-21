@@ -5,7 +5,7 @@
     - [modeling from data files](#modeling-from-data-files)
     - [voronoi structure](#voronoi-structure)
   - [battery system](#battery-system)
-    - [LixSn nanoparticle charging/discharging](#lixsn-nanoparticle-charging/discharging)
+    - [LixSn nanoparticle charging/discharging](#lixsn-nanoparticle-charging\/discharging)
     - [CuxLiySn polycrystalline nanoparticles lithiation](#cuxliysn-polycrystalline-nanoparticles-lithiation)
 - [Softwares](#code-repository)
   - [MID_MESO](#mid_meso)
@@ -17,8 +17,8 @@ Page link: https://github.com/Microstructure-Intelligent-Design/Applications
 ### Modeling from data files
 ### Voronoi structure
 ## Battery system
-### LixSn nanoparticle charging/discharging
-1. **Huang, Qi**, et al. "Phase-field simulation for voltage profile of LixSn nanoparticle during lithiation/delithiation." *Computational Materials Science* 220 (2023): 112047.
+### LixSn nanoparticle charging\/discharging
+1. **Huang, Qi**, et al. "Phase-field simulation for voltage profile of LixSn nanoparticle during charging/discharging process." *Computational Materials Science* 220 (2023): 112047.
 
 <div align=center>
 <img src="https://github.com/hq5088028/MInDes/blob/main/guide/Publications/figures/nanoparticle.jpg" width="300px">
@@ -38,7 +38,7 @@ Fig. 1.2 Charge/discharge cycle of nanoparticle
 <img src="https://github.com/hq5088028/MInDes/blob/main/guide/Publications/figures/data_distribution.jpg" width="700px">
 </div>
 <div align=center>
-Fig. 1.3 The stress, energy density, diffusion potential distribution over the radius of the nanoparticle during lithiation and delithiation process
+Fig. 1.3 The stress, energy density, diffusion potential distribution over the radius of the nanoparticle during charging and discharging process
 </div>
 
 ### CuxLiySn polycrystalline nanoparticles lithiation
