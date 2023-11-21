@@ -14,6 +14,13 @@
 Page link: https://github.com/Microstructure-Intelligent-Design/Applications
 ## Modeling
 ### Modeling from pictures
+<div align=center>
+<img src="https://github.com/Microstructure-Intelligent-Design/Guidance/blob/main/figures/bmp_figure.png" hight="300px">
+<img src="https://https://github.com/Microstructure-Intelligent-Design/Guidance/blob/main/figures/bmp_structure.png" hight="300px">
+</div>
+<div align=center>
+Fig. 1.1 Modeling of multiphase transition processes in nanoparticle
+
 ### Modeling from data files
 ### Voronoi structure
 ## Battery system
@@ -24,21 +31,21 @@ Page link: https://github.com/Microstructure-Intelligent-Design/Applications
 <img src="https://github.com/hq5088028/MInDes/blob/main/guide/Publications/figures/nanoparticle.jpg" width="300px">
 </div>
 <div align=center>
-Fig. 1.1 Modeling of multiphase transition processes in nanoparticle
+Fig. 2.1 Modeling of multiphase transition processes in nanoparticle
 
 </div>
 <div align=center>
 <img src="https://github.com/hq5088028/MInDes/blob/main/guide/Publications/figures/cycling.jpg" width="800px">
 </div>
 <div align=center>
-Fig. 1.2 Charge/discharge cycle of nanoparticle
+Fig. 2.2 Charge/discharge cycle of nanoparticle
 
 </div>
 <div align=center>
 <img src="https://github.com/hq5088028/MInDes/blob/main/guide/Publications/figures/data_distribution.jpg" width="700px">
 </div>
 <div align=center>
-Fig. 1.3 The stress, energy density, diffusion potential distribution over the radius of the nanoparticle during lithiation and delithiation process
+Fig. 2.3 The stress, energy density, diffusion potential distribution over the radius of the nanoparticle during lithiation and delithiation process
 </div>
 
 ### CuxLiySn polycrystalline nanoparticles lithiation
