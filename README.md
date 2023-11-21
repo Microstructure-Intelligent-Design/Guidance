@@ -14,11 +14,13 @@
 Page link: https://github.com/Microstructure-Intelligent-Design/Applications
 ## Modeling
 ### Modeling from pictures
-<div align=center>
-<img src="https://github.com/Microstructure-Intelligent-Design/Guidance/blob/main/figures/bmp_figure.png" height="100px"/><img src="https://https://github.com/Microstructure-Intelligent-Design/Guidance/blob/main/figures/bmp_structure.png" height="100px"/>
-</div>
+<p align=left>
+<img src="https://github.com/Microstructure-Intelligent-Design/Guidance/blob/main/figures/bmp_figure.png" height="100px" />
+<img src="https://https://github.com/Microstructure-Intelligent-Design/Guidance/blob/main/figures/bmp_structure.png" height="100px" />
+</p>
 <div align=center>
 Fig. 1.1 Modeling of multiphase transition processes in nanoparticle
+</div>
 
 ### Modeling from data files
 ### Voronoi structure
@@ -31,15 +33,15 @@ Fig. 1.1 Modeling of multiphase transition processes in nanoparticle
 </div>
 <div align=center>
 Fig. 2.1 Modeling of multiphase transition processes in nanoparticle
-
 </div>
+
 <div align=center>
 <img src="https://github.com/hq5088028/MInDes/blob/main/guide/Publications/figures/cycling.jpg" width="800px">
 </div>
 <div align=center>
 Fig. 2.2 Charge/discharge cycle of nanoparticle
-
 </div>
+
 <div align=center>
 <img src="https://github.com/hq5088028/MInDes/blob/main/guide/Publications/figures/data_distribution.jpg" width="700px">
 </div>
