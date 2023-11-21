@@ -33,7 +33,9 @@ Fig. 1.3 The stress, energy density, diffusion potential distribution over the r
 
 # Softwares
 ## MID_MESO
+- **M**icrostructure **I**ntelligent **D**esign - **Meso**scale
 
 
 ## MInDes Core
+- **M**icrostructure **In**telligent **Des**ign Core
 
