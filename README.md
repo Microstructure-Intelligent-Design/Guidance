@@ -1,11 +1,20 @@
 # Content
 - [Applications](#applications)
+  - [modeling](#modeling)
+    - [modeling from pictures](#modeling-from-pictures)
+    - [modeling from data files](#modeling-from-data-files)
+    - [voronoi structure](#voronoi-structure)
   - [battery system](#battery-system)
     - [half-cell simulation](#half-cell-simulation)
 - [Softwares](#code-repository)
   - [MID_MESO](#mid_meso)
   - [MInDes](#mindes)
 # Applications
+Page link: https://github.com/Microstructure-Intelligent-Design/Applications
+## Modeling
+### Modeling from pictures
+### Modeling from data files
+### Voronoi structure
 ## Battery system
 ### Half-cell simulation
 1. **Huang, Qi**, et al. "Phase-field simulation for voltage profile of LixSn nanoparticle during lithiation/delithiation." *Computational Materials Science* 220 (2023): 112047.
