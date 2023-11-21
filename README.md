@@ -5,7 +5,7 @@
     - [modeling from data files](#modeling-from-data-files)
     - [voronoi structure](#voronoi-structure)
   - [battery system](#battery-system)
-    - [LixSn nanoparticle charging/discharging](#lixsn-nanoparticle-simulation)
+    - [LixSn nanoparticle simulation](#lixsn-nanoparticle-simulation)
     - [CuxLiySn polycrystalline nanoparticles lithiation](#cuxliysn-polycrystalline-nanoparticles-lithiation)
 - [Softwares](#code-repository)
   - [MID_MESO](#mid_meso)
