@@ -79,14 +79,14 @@ Fig. 2.4 Modeling of three-dimensional polycrystalline nanoparticle.
 <img src="https://github.com/Microstructure-Intelligent-Design/Guidance/blob/main/figures/cuxliysn_lithiation.png" width="800px">
 </div>
 <div align=center>
-Fig. 2.5 Charge/discharge cycle of nanoparticle.
+Fig. 2.5 Lithiation process of polycrystalline nanoparticle.
 </div>
 
 <div align=center>
 <img src="https://github.com/Microstructure-Intelligent-Design/Guidance/blob/main/figures/cuxliysn_mechanical_analysis.png" width="800px">
 </div>
 <div align=center>
-Fig. 2.6 Charge/discharge cycle of nanoparticle.
+Fig. 2.6 Mechanical analysis of polycrystalline nanoparticle during lithiation process.
 </div>
 
 # Softwares
