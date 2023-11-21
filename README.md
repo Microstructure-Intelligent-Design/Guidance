@@ -1,15 +1,10 @@
 # Content
-- [Code Repository](#code-repository)
-  - [MID_MESO](#mid_meso)
-  - [MInDes](#mindes)
 - [Applications](#applications)
   - [battery system](#battery-system)
     - [half-cell simulation](#half-cell-simulation)
-# Code Repository
-## MID_MESO
-
-## MInDes
-
+- [Softwares](#code-repository)
+  - [MID_MESO](#mid_meso)
+  - [MInDes](#mindes)
 # Applications
 ## Battery system
 ### Half-cell simulation
@@ -35,3 +30,10 @@ Fig. 1.2 Charge/discharge cycle of nanoparticle
 <div align=center>
 Fig. 1.3 The stress, energy density, diffusion potential distribution over the radius of the nanoparticle during lithiation and delithiation process
 </div>
+
+# Softwares
+## MID_MESO
+
+
+## MInDes Core
+
