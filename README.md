@@ -1,7 +1,7 @@
 # Content
 - [Code Repository](#code-repository)
-  - [mid_meso](#mid_meso)
-  - [mindes](#mindes)
+  - [MID_MESO](#mid_meso)
+  - [MInDes](#mindes)
 - [Applications](#applications)
   - [battery system](#battery-system)
     - [half-cell simulation](#half-cell-simulation)
