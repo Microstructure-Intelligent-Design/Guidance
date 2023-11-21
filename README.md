@@ -33,17 +33,15 @@ Fig. 1.3 The stress, energy density, diffusion potential distribution over the r
 
 # Softwares
 ## MID_MESO
-\- **M**icrostructure **I**ntelligent **D**esign - **Meso**scale
-
-link: https://github.com/Microstructure-Intelligent-Design/MID_MESO
 <div align=center>
-<img src="https://github.com/Microstructure-Intelligent-Design/Documents/blob/main/Icon/MID_MESO_full.png" width="100px">
+<img src="https://github.com/Microstructure-Intelligent-Design/Documents/blob/main/Icon/MID_MESO_full.png" width="300px">
 </div>
+\- **M**icrostructure **I**ntelligent **D**esign - **Meso**scale
+Page link: https://github.com/Microstructure-Intelligent-Design/MID_MESO
 
 ## MInDes Core
-\- **M**icrostructure **In**telligent **Des**ign Core
-
-link: https://github.com/Microstructure-Intelligent-Design/MInDes
 <div align=center>
-<img src="https://github.com/Microstructure-Intelligent-Design/Documents/blob/main/Icon/icon_full.png" width="100px">
+<img src="https://github.com/Microstructure-Intelligent-Design/Documents/blob/main/Icon/icon_full.png" width="200px">
 </div>
+\- **M**icrostructure **In**telligent **Des**ign Core
+Page link: https://github.com/Microstructure-Intelligent-Design/MInDes
