@@ -44,21 +44,21 @@ Fig. 1.3 Modeling of voronoi structure in three-dimensional ring.
 1. **Huang, Qi**, et al. "Phase-field simulation for voltage profile of LixSn nanoparticle during lithiation/delithiation." *Computational Materials Science* 220 (2023): 112047.
 
 <div align=center>
-<img src="https://github.com/Microstructure-Intelligent-Design/Documents/tree/main/Papers/figures/nanoparticle.jpg" width="300px">
+<img src="https://github.com/Microstructure-Intelligent-Design/Documents/blob/main/Papers/figures/nanoparticle.jpg" width="300px">
 </div>
 <div align=center>
 Fig. 2.1 Modeling of multiphase transition processes in nanoparticle.
 </div>
 
 <div align=center>
-<img src="https://github.com/Microstructure-Intelligent-Design/Documents/tree/main/Papers/figures/cycling.jpg" width="800px">
+<img src="https://github.com/Microstructure-Intelligent-Design/Documents/blob/main/Papers/figures/cycling.jpg" width="800px">
 </div>
 <div align=center>
 Fig. 2.2 Charge/discharge cycle of nanoparticle.
 </div>
 
 <div align=center>
-<img src="https://github.com/Microstructure-Intelligent-Design/Documents/tree/main/Papers/figures/data_distribution.jpg" width="700px">
+<img src="https://github.com/Microstructure-Intelligent-Design/Documents/blob/main/Papers/figures/data_distribution.jpg" width="700px">
 </div>
 <div align=center>
 Fig. 2.3 The stress, energy density, diffusion potential distribution over the radius of the nanoparticle during lithiation and delithiation process.
