@@ -39,6 +39,14 @@ Fig. 1.2 Modeling of voronoi structure in three-dimensional cube.
 Fig. 1.3 Modeling of voronoi structure in three-dimensional ring.
 </div>
 
+<p align=center>
+<img src="https://github.com/Microstructure-Intelligent-Design/Guidance/blob/main/figures/porous_structure.png" height="200px" width="230px" />
+<img src="https://github.com/Microstructure-Intelligent-Design/Guidance/blob/main/figures/porous_structure_voronoi.png" height="200px" width="230px" />
+</p>
+<div align=center>
+Fig. 1.3 Modeling of voronoi structure in three-dimensional porous structure.
+</div>
+
 ## Battery system
 ### LixSn nanoparticle simulation
 1. **Huang, Qi**, et al. "Phase-field simulation for voltage profile of LixSn nanoparticle during lithiation/delithiation." *Computational Materials Science* 220 (2023): 112047.
