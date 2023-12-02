@@ -40,8 +40,8 @@ Fig. 1.3 Modeling of voronoi structure in three-dimensional ring.
 </div>
 
 <p align=center>
-<img src="https://github.com/Microstructure-Intelligent-Design/Guidance/blob/main/figures/porous_structure.png" height="200px" width="230px" />
-<img src="https://github.com/Microstructure-Intelligent-Design/Guidance/blob/main/figures/porous_structure_voronoi.png" height="200px" width="230px" />
+<img src="https://github.com/Microstructure-Intelligent-Design/Guidance/blob/main/figures/porous_structure.png" height="300px" width="300px" />
+<img src="https://github.com/Microstructure-Intelligent-Design/Guidance/blob/main/figures/porous_structure_voronoi.png" height="300px" width="300px" />
 </p>
 <div align=center>
 Fig. 1.3 Modeling of voronoi structure in three-dimensional porous structure.
