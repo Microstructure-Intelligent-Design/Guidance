@@ -100,7 +100,7 @@ Fig. 2.6 Mechanical analysis of polycrystalline nanoparticle during lithiation p
 # Softwares
 ## MID_MESO
 <div align=left>
-<img src="https://github.com/Microstructure-Intelligent-Design/Documents/blob/main/Icon/icon_software.jpg" width="300px">
+<img src="https://github.com/Microstructure-Intelligent-Design/Documents/blob/main/Icon/mid-meso.jpg" width="300px">
 </div>
 
 \- **M**icrostructure **I**ntelligent **D**esign - **Meso**scale
@@ -111,7 +111,7 @@ Manual: https://github.com/Microstructure-Intelligent-Design/Documents/blob/main
 
 ## MInDes Core
 <div align=left>
-<img src="https://github.com/Microstructure-Intelligent-Design/Documents/blob/main/Icon/icon_mindes.jpg" width="200px">
+<img src="https://github.com/Microstructure-Intelligent-Design/Documents/blob/main/Icon/mindes.jpg" width="300px">
 </div>
 
 \- **M**icrostructure **In**telligent **Des**ign Core
