@@ -73,7 +73,7 @@ Fig. 2.3 The stress, energy density, diffusion potential distribution over the r
 </div>
 
 ### CuxLiySn polycrystalline nanoparticles lithiation
-1. **Huang, Qi**, et al. "XXX." *XXX* XXX (XXXX): XXXXXX.
+1. **Huang, Qi**, et al. "Multiphase transformation and mechanical analysis of polycrystalline CuxLiySn nanoparticle during lithiation via phase diagram-guided phase-field approach." *Electrochimica Acta* 495 (2024): 144471.
 
 <p align=center>
 <img src="https://github.com/Microstructure-Intelligent-Design/Guidance/blob/main/figures/cuxliysn_modeling1.png" width="230px" />
